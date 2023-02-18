@@ -1,6 +1,6 @@
 # RTL Sphinx Theme
 
-قالب RTL برای استفاده در [Sphinx](http://sphinx-doc.org)
+قالب راست چین فارسی برای استفاده در [Sphinx](http://sphinx-doc.org)
 
 ## نحوه نصب
 
@@ -16,7 +16,7 @@
 
 تنظیم Google Analytics
     
-    `analytics_id = UA-XXXXX-X`
+    analytics_id = UA-XXXXX-X
  
 وارد کردن اطلاعات شبکه های اجتماعی
     
@@ -37,6 +37,7 @@
 
 [sphinx_rtd_theme](https://github.com/snide/sphinx_rtd_theme)
 
+[SphinxMinooTheme](https://github.com/saeiddrv/SphinxMinooTheme)
 
 
      
