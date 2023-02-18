@@ -31,6 +31,8 @@
 ### نمونه
 [آموزش الگوهای طراحی در PHP](https://design-patterns-in-persian.readthedocs.io/en/latest/README.html)
 
+![Sample](saleh_theme.jpg)
+
 ### با تشکر از
 
 [sphinx_rtd_theme](https://github.com/snide/sphinx_rtd_theme)
